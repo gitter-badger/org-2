@@ -1,6 +1,6 @@
 # Organizational planning
 
-![Gitter](https://img.shields.io/gitter/room/neo-chem/org)
+![Gitter](https://img.shields.io/gitter/room/neo-chem-org)
 
 This repository is a place to plan and solidify ideas about data management in chemistry and related fields, primarily following discussions that occurred at the Chemical Science Symposium 2020: *How can machine learning and autonomy accelerate chemistry?*. 
 
@@ -9,7 +9,7 @@ It was suggested that the community should try to centralize efforts on a core c
 The aim of this repository (and GitHub organisation more broadly) is to provide a version controlled "scratchpad" for discussion, ideas and organisation. 
 All content and names are placeholders until otherwise decided. 
 
-There is a [Gitter chatroom](https://gitter.im/neo-chem/org) associated with this repository that can be used for informal discussions (and potentially more in the future); this may be replaced by a Slack or another service.
+There is a [Gitter chatroom](https://gitter.im/neo-chem-org) associated with this repository that can be used for informal discussions (and potentially more in the future); this may be replaced by a Slack or another service.
 
 ## To-do
 
