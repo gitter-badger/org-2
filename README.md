@@ -2,7 +2,7 @@
 
 This repository is a place to plan and solidify ideas about data management in chemistry and related fields, primarily following discussions that occurred at the Chemical Science Symposium 2020: *How can machine learning and autonomy accelerate chemistry?*. 
 
-It was suggested that the community should try to centralize efforts on a core common schema for data that focusses on interoperability and openess.
+It was suggested that the community should try to centralize efforts on a common core schema for data, that focusses on interoperability and openess. Mechanisms for other parties to extend, re-use and adapt these schemas can then be codified.
 
 The aim of this repository (and GitHub organisation more broadly) is to provide a version controlled "scratchpad" for discussion, ideas and organisation. 
 All content and names are placeholders until otherwise decided. 
