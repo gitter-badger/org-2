@@ -1,7 +1,5 @@
 # Organizational planning
 
-![Gitter](https://img.shields.io/gitter/room/neo-chem-org)
-
 This repository is a place to plan and solidify ideas about data management in chemistry and related fields, primarily following discussions that occurred at the Chemical Science Symposium 2020: *How can machine learning and autonomy accelerate chemistry?*. 
 
 It was suggested that the community should try to centralize efforts on a core common schema for data that focusses on interoperability and openess.
@@ -15,7 +13,8 @@ There is a [Gitter chatroom](https://gitter.im/neo-chem-org) associated with thi
 
 I'll try to summarise the possible to-do list that we discussed:
 
-- [ ] Collect interested parties, via email and so-on, and establish a focal point for dicussion. If this GitHub is not the place, then potentially a Slack or other service.
+- [ ] Collect interested parties, via email and so-on, and establish a focal point for dicussion.
+- [ ] If this GitHub is not the place, then potentially make a Slack or otherwise. One option may be to request a forum on the new [matsci.org platform](https://matsci.org/).
 - [ ] Find out who has the time to contribute, and in what ways
 - [ ] Potentially prepare a perspective paper as a "call-to-arms" for improved data standards.
 
